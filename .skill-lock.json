@@ -1,0 +1,148 @@
+{
+  "version": 3,
+  "skills": {
+    "skill-creator": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/skill-creator/SKILL.md",
+      "skillFolderHash": "",
+      "pluginName": "example-skills",
+      "installedAt": "2026-04-04T10:30:56.415Z",
+      "updatedAt": "2026-04-04T10:30:56.415Z"
+    },
+    "grill-me": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/mattpocock/skills.git",
+      "skillPath": "grill-me/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-04-26T10:08:54.080Z",
+      "updatedAt": "2026-04-26T10:09:17.325Z"
+    },
+    "caveman": {
+      "source": "juliusbrussee/caveman",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/juliusbrussee/caveman.git",
+      "skillPath": "caveman/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-04-26T10:10:20.493Z",
+      "updatedAt": "2026-04-26T10:10:20.493Z"
+    },
+    "to-prd": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/mattpocock/skills.git",
+      "skillPath": "to-prd/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-04-26T10:12:02.188Z",
+      "updatedAt": "2026-04-26T10:12:02.188Z"
+    },
+    "gemini-api-dev": {
+      "source": "google-gemini/gemini-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/google-gemini/gemini-skills.git",
+      "skillPath": "skills/gemini-api-dev/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-04-26T10:12:24.011Z",
+      "updatedAt": "2026-04-26T10:12:24.011Z"
+    },
+    "improve-codebase-architecture": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/mattpocock/skills.git",
+      "skillPath": "skills/engineering/improve-codebase-architecture/SKILL.md",
+      "skillFolderHash": "3d35cd438f4067b03c8b3792e038960e4ac11526",
+      "pluginName": "mattpocock-skills",
+      "installedAt": "2026-04-26T13:07:24.196Z",
+      "updatedAt": "2026-09-05T03:24:25.318Z"
+    },
+    "wayfinder": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/mattpocock/skills.git",
+      "skillPath": "skills/engineering/wayfinder/SKILL.md",
+      "skillFolderHash": "8ec0462658381bd1606d3f9db14ffc67df6a2a43",
+      "pluginName": "mattpocock-skills",
+      "installedAt": "2026-07-11T05:20:38.843Z",
+      "updatedAt": "2026-09-05T03:25:17.956Z"
+    },
+    "unslop": {
+      "source": "cursor/plugins",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/cursor/plugins.git",
+      "skillPath": "pstack/skills/unslop/SKILL.md",
+      "skillFolderHash": "35153230eaaf0aa02437e7004bc319b33c5fbe1f",
+      "installedAt": "2026-09-05T03:23:55.932Z",
+      "updatedAt": "2026-09-05T03:23:55.932Z"
+    },
+    "grill-with-docs": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/mattpocock/skills.git",
+      "skillPath": "skills/engineering/grill-with-docs/SKILL.md",
+      "skillFolderHash": "eedaf2562c83155115e9c649fa3ecaac2e10e81d",
+      "pluginName": "mattpocock-skills",
+      "installedAt": "2026-09-05T03:25:17.949Z",
+      "updatedAt": "2026-09-05T03:25:17.949Z"
+    },
+    "teach": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/mattpocock/skills.git",
+      "skillPath": "skills/productivity/teach/SKILL.md",
+      "skillFolderHash": "2ab11f2f51f3c29771edb5d4258d807a49462491",
+      "pluginName": "mattpocock-skills",
+      "installedAt": "2026-09-05T03:25:17.949Z",
+      "updatedAt": "2026-09-05T03:25:17.949Z"
+    },
+    "wait-what": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/mattpocock/skills.git",
+      "skillPath": "skills/productivity/wait-what/SKILL.md",
+      "skillFolderHash": "c119d66111cc1bac94cbc51322cd34ed21aa0446",
+      "pluginName": "mattpocock-skills",
+      "installedAt": "2026-09-05T03:25:17.955Z",
+      "updatedAt": "2026-09-05T03:25:17.955Z"
+    },
+    "writing-for-agents": {
+      "source": "mattpocock/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/mattpocock/skills.git",
+      "skillPath": "skills/productivity/writing-for-agents/SKILL.md",
+      "skillFolderHash": "ad2925850efb8973a72d2e666f7a975f9a2d4a9b",
+      "pluginName": "mattpocock-skills",
+      "installedAt": "2026-09-05T03:25:17.956Z",
+      "updatedAt": "2026-09-05T03:25:17.956Z"
+    },
+    "typesafe-ai": {
+      "source": "typesafe-ai/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/typesafe-ai/skills.git",
+      "skillPath": "skills/typesafe-ai/SKILL.md",
+      "skillFolderHash": "678c375b883794bf4292715a43acbba5c84681aa",
+      "installedAt": "2026-10-04T11:38:54.353Z",
+      "updatedAt": "2026-10-04T11:38:54.353Z"
+    }
+  },
+  "dismissed": {
+    "findSkillsPrompt": true
+  },
+  "lastSelectedAgents": [
+    "amp",
+    "cline",
+    "codex",
+    "cursor",
+    "droid",
+    "gemini-cli",
+    "github-copilot",
+    "kilo",
+    "kimi-code-cli",
+    "opencode",
+    "warp",
+    "zed",
+    "claude-code",
+    "pi"
+  ]
+}
